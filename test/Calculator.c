@@ -8,7 +8,7 @@ int main() {
 	char inExp[100];
 	char poExp[100];
 	while (1) {
-		printf("ÁßÀ§Ç¥±â½Ä ÀÔ·Â (Á¾·á ½Ã x) : ");
+		printf("ì¤‘ìœ„í‘œê¸°ì‹ ì…ë ¥ (ì¢…ë£Œ ì‹œ x) : ");
 		gets(inExp);
 		if (toupper(inExp[0]) == 'X') {
 			break;
